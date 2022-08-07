@@ -1,0 +1,38 @@
+.navbar-container {
+    display: flex;
+    height: 60px;
+    align-items: center;
+    background: #020202;
+    margin: 0;
+    justify-content: space-between;
+
+}
+
+.navbar-left {
+    display: flex;
+    align-items: center;
+}
+
+.navbar-right {
+    display: flex;
+    margin-right: 40px;
+}
+
+.flash-logo {
+    height: 40px;
+    margin-left: 20px;
+    padding: 10px 10px;
+}
+
+.navbar-text-left {
+    color: azure;
+    font-family: "Bangers", cursive;
+    font-size: 20px;
+    letter-spacing: 2px;
+}
+
+.navbar-text-right {
+    color: azure;
+    font-family: "Bangers", cursive;
+    font-size: 20px;
+}

@@ -1,0 +1,17 @@
+.test-letter {
+    font-size: 19px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.correct {
+    color: #558b2f;
+}
+
+
+.incorrect {
+    color: #bf360c;
+}
+
+.notAttempted {
+    color: #f9a825;
+}

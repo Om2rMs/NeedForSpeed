@@ -1,0 +1,12 @@
+body {
+    margin: 0;
+    box-sizing: border-box;
+    font-family: "Mouse Memoirs", sans-serif;
+
+}
+
+.app {
+    background: #ffffff;
+    display: flex;
+    flex-direction: column;
+}

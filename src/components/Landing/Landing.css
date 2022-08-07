@@ -1,0 +1,55 @@
+.landing-container {
+    display: flex;
+    min-height: 90vh;
+    align-content: space-between;
+    align-items: center;
+    color: #eee;
+    padding: 0 32px;
+    margin: 0;
+    font-family: "Bangers", cursive;
+    flex-wrap: wrap;
+    background-image: url('../../assest/background2.webp');
+    background-repeat: no-repeat;
+    height: 100%;
+    background-position: center;
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+
+}
+
+.landing-header {
+    font-size: 64px;
+    letter-spacing: 5px;
+    margin: 0;
+    margin-top: 200px;
+}
+
+.typewriter {
+    font-size: 49px;
+    letter-spacing: 5px;
+    margin-top: 20px;
+}
+
+.right-logo {
+    height: 40vw;
+
+}
+
+@media (max-width: 800px) {
+    .landing-container {
+        flex-direction: column;
+        align-items: center;
+    }
+
+
+    .landing-header {
+        margin-top: 50px;
+        text-align: left;
+    }
+
+    .typewriter {
+        text-align: left;
+        margin-top: 30px;
+    }
+}

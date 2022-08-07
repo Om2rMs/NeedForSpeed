@@ -1,0 +1,32 @@
+.test-container {
+    display: flex;
+    margin: 64px 0;
+    background: #fff;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 12), 0 1px 2px rgba(0, 0, 0, 12);
+    width: 60%;
+    flex-direction: column;
+    min-height: 750px;
+    margin-left: 20%;
+
+}
+
+.test-again {
+    display: flex;
+    flex-grow: 1;
+    flex-direction: column;
+    justify-content: center;
+
+}
+
+@media (max-width: 800px) {
+    .test-container {
+        display: flex;
+        margin: 64px 0;
+        background: #eee;
+        width: 100%;
+        flex-direction: column;
+        min-height: 750px;
+
+    }
+
+}
