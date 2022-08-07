@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/NeedForSpeed/static/css/main.bb705bc3.css",
-    "main.js": "/NeedForSpeed/static/js/main.1f176fc3.js",
+    "main.js": "/NeedForSpeed/static/js/main.d8e54cf0.js",
     "static/media/flashLogo.png": "/NeedForSpeed/static/media/flashLogo.f0802ffc2501565f428a.png",
     "static/media/background2.webp": "/NeedForSpeed/static/media/background2.120a569f1acce9df1ccd.webp",
     "index.html": "/NeedForSpeed/index.html",
     "main.bb705bc3.css.map": "/NeedForSpeed/static/css/main.bb705bc3.css.map",
-    "main.1f176fc3.js.map": "/NeedForSpeed/static/js/main.1f176fc3.js.map"
+    "main.d8e54cf0.js.map": "/NeedForSpeed/static/js/main.d8e54cf0.js.map"
   },
   "entrypoints": [
     "static/css/main.bb705bc3.css",
-    "static/js/main.1f176fc3.js"
+    "static/js/main.d8e54cf0.js"
   ]
 }
